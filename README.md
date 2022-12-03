@@ -60,3 +60,5 @@ Merci de lire les fichiers :
 ## License
 
 Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
+
+## créer un conflit modification coté interface github: définir les prérequis 
